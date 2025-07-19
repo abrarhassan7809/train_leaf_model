@@ -2,3 +2,5 @@ tensorflow
 numpy
 matplotlib
 scipy
+scikit-learn
+matplotlib

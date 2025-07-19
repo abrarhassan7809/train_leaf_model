@@ -3,5 +3,9 @@ venv
 .idea
 __pycache__
 train_leaf_model.zip
-vgg19_leaf_disease_model.h5
-densenet_leaf_disease_model.h5
+CustomCNN_Model.keras
+CustomCNN_training_plot.png
+DenseNet121_Model.keras
+DenseNet121_training_plot.png
+VGG19_Model.keras
+VGG19_training_plot.png
