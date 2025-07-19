@@ -1,0 +1,7 @@
+.venv
+venv
+.idea
+__pycache__
+train_leaf_model.zip
+vgg19_leaf_disease_model.h5
+densenet_leaf_disease_model.h5
